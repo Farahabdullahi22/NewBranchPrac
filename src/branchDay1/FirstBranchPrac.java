@@ -8,5 +8,10 @@ public class FirstBranchPrac {
 		System.out.println("Never make changes in master ");
 		
 	}
+	
+	public void carModel() {
+		
+		System.out.println(2023);
+	}
 
 }
